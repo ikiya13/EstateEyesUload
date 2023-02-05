@@ -1,0 +1,9 @@
+.home-page-body {
+}
+
+#home-page-body-main {
+  height: auto;
+  width: auto;
+  display: inline-flex;
+  justify-content: flex-end;
+}
